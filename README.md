@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sosa</h1>
 <h3 align="center">Full stack .net developer</h3>
 
-- 🔭 I’m currently working on Z2Data [Company App](https://company.ztwo.app/)
+- 🔭 I’m currently working on Z2Data [Company App](https://company.ztwo.app/)  , [internal System] (https://internalapp.ztwo.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
